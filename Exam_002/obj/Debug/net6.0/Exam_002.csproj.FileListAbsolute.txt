@@ -1,0 +1,16 @@
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_002/obj/Debug/net6.0/Exam_002.GlobalUsings.g.cs
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_002/obj/Debug/net6.0/Exam_002.csproj.AssemblyReference.cache
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_002/obj/Debug/net6.0/Exam_002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_002/obj/Debug/net6.0/Exam_002.AssemblyInfoInputs.cache
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_002/obj/Debug/net6.0/Exam_002.AssemblyInfo.cs
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_002/obj/Debug/net6.0/Exam_002.csproj.CoreCompileInputs.cache
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_002/bin/Debug/net6.0/Exam_002
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_002/bin/Debug/net6.0/Exam_002.deps.json
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_002/bin/Debug/net6.0/Exam_002.runtimeconfig.json
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_002/bin/Debug/net6.0/Exam_002.dll
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_002/bin/Debug/net6.0/ref/Exam_002.dll
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_002/bin/Debug/net6.0/Exam_002.pdb
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_002/obj/Debug/net6.0/Exam_002.dll
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_002/obj/Debug/net6.0/ref/Exam_002.dll
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_002/obj/Debug/net6.0/Exam_002.pdb
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_002/obj/Debug/net6.0/Exam_002.genruntimeconfig.cache

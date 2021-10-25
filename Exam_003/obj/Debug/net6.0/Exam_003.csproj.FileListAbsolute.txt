@@ -1,0 +1,16 @@
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_003/bin/Debug/net6.0/Exam_003
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_003/bin/Debug/net6.0/Exam_003.deps.json
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_003/bin/Debug/net6.0/Exam_003.runtimeconfig.json
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_003/bin/Debug/net6.0/Exam_003.dll
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_003/bin/Debug/net6.0/ref/Exam_003.dll
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_003/bin/Debug/net6.0/Exam_003.pdb
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_003/obj/Debug/net6.0/Exam_003.GlobalUsings.g.cs
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_003/obj/Debug/net6.0/Exam_003.csproj.AssemblyReference.cache
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_003/obj/Debug/net6.0/Exam_003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_003/obj/Debug/net6.0/Exam_003.AssemblyInfoInputs.cache
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_003/obj/Debug/net6.0/Exam_003.AssemblyInfo.cs
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_003/obj/Debug/net6.0/Exam_003.csproj.CoreCompileInputs.cache
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_003/obj/Debug/net6.0/Exam_003.dll
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_003/obj/Debug/net6.0/ref/Exam_003.dll
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_003/obj/Debug/net6.0/Exam_003.pdb
+/Users/vladimirkuzmin/Desktop/Seminar_progr/Exam_003/obj/Debug/net6.0/Exam_003.genruntimeconfig.cache
